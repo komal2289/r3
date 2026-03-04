@@ -1,3 +1,4 @@
-echo "pratima"
-echo " is pagalllll"
+
+echo "good morning pineapple"
+
 echo "for lifetime"
